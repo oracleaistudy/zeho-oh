@@ -1,7 +1,7 @@
 # 🤖 혼자 공부하는 머신러닝+딥러닝 (Study Repository)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python Version"/>
+  <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python" alt="Python Version"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/>
   <img src="https://img.shields.io/badge/Book-혼자공부하는머신러닝+딥러닝-9cf" alt="Book"/>
@@ -23,30 +23,6 @@
 | **IDE/환경** | Jupyter Notebook, VSCode 등 |
 | **작성자** | Jay Oh |
 
----
-
-## 📚 노트북별 목차
-
-### 01️⃣ 머신러닝 기초
-- [데이터 준비와 탐색](./01_머신러닝_기초/데이터_준비와_탐색.ipynb)
-- [훈련 세트와 테스트 세트](./01_머신러닝_기초/훈련세트와_테스트세트.ipynb)
-- [k-최근접 이웃 알고리즘](./01_머신러닝_기초/k_최근접이웃.ipynb)
-
-### 02️⃣ 회귀와 분류
-- [선형 회귀](./02_회귀와_분류/선형회귀.ipynb)
-- [로지스틱 회귀](./02_회귀와_분류/로지스틱회귀.ipynb)
-- [결정 트리](./02_회귀와_분류/결정트리.ipynb)
-
-### 03️⃣ 신경망과 딥러닝
-- [뉴런과 활성화 함수](./03_딥러닝/뉴런과_활성화함수.ipynb)
-- [다층 퍼셉트론(MLP)](./03_딥러닝/다층퍼셉트론.ipynb)
-- [딥러닝을 위한 Keras 활용](./03_딥러닝/Keras_활용.ipynb)
-
-### 04️⃣ 실전 프로젝트
-- [이미지 분류 프로젝트](./04_프로젝트/이미지_분류.ipynb)
-- [텍스트 감성 분석](./04_프로젝트/텍스트_감성분석.ipynb)
-
----
 
 ## 🚀 실행 방법
 
@@ -97,5 +73,5 @@ jupyter notebook
 
 ---
 <p align="center">
-  Made with ❤️ by <b>Jay Oh</b>
+  Made by <b>Jay Oh</b>
 </p>
