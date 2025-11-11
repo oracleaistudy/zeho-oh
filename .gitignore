@@ -1,3 +1,4 @@
 ## NESOY Ignore File ##
-
+./data
 *.csv
+*.npy
