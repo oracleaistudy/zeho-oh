@@ -1,4 +1,11 @@
 ## NESOY Ignore File ##
-./data
+## Directory
+.vscode/
+data/
+model/
+
+## File
 *.csv
 *.npy
+*.keras
+*.weights.h5
